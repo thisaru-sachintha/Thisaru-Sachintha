@@ -23,12 +23,7 @@
   <a href="https://github.com/Thisaru">
     <img height="180em" src="https://streak-stats.demolab.com?user=thisaru-sachintha&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
-  <a href="https://github.com/Thisaru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisaru-sachintha&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Thisaru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaru-sachintha&layout=compact&langs_count=10&card_width=320&hide_border=true&theme=tokyonight&hide=jupyter%20notebook"/>
-  </a>
+  
 </div>
 
 ---
